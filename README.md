@@ -11,8 +11,8 @@ CloudDialer is my main project: an ERP built around the phone, for B2B companies
 
 ## Side projects
 
-- **Glove-liner visualizer and physics simulator.** Reads knitting programs for Shima Seiki glove machines and builds the liner stitch by stitch. It then simulates how the knit stretches, recovers and fits a hand, so changes to gauge, yarn and coating can be judged before a sample is knitted.
-- **Ravn.** Competitor intelligence for importers. It shows who your competitors buy from, what they pay and who they sell to. Ravn doesn't rely on bills of lading or incomplete customs data. It uses a simple but clever combination of social engineering and maritime law to quite literally break open any container at sea, invoice included. Ravn is technically legal. For now.
+- **Glove-liner visualizer and physics simulator.** Reads knitting programs for Shima Seiki glove machines and builds the liner stitch by stitch. It then simulates how the knit stretches, recovers and fits a hand, so changes to gauge, yarn and coating can be judged before a sample is knitted. Developed for the team at href="https://acx.dk"
+- **Ravn.** Competitor intelligence for importers. It shows who your competitors buy purchase goods from and what they pay for them. Ravn doesn't rely on bills of lading or customs data. It uses a horrifyingly simple combination of social engineering and maritime law to quite literally break open any container at sea and just hand you the paperwork. Ravn is technically legal and has a 80-90% ish success rate. 
 
 ## Stack
 
